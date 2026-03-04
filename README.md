@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal. 
 # 👋 Hi, I'm Tran Nhi
 🎓 Final-year International Business Student at Foreign Trade University (FTU)  
 📍 Based in Vietnam  
